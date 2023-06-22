@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267786525203",
+    "project_id": "personal-project-50531",
+    "storage_bucket": "personal-project-50531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267786525203:android:3d6c6d33a8f57413227de6",
+        "android_client_info": {
+          "package_name": "com.aneco.complaintsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267786525203-ulqg3cmikorfmrnvvmjmr5ur2jslsfhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAAcmUEZDvEW1oZ0DMH0v6FVZ-jtpExs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267786525203-ulqg3cmikorfmrnvvmjmr5ur2jslsfhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
